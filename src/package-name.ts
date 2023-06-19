@@ -1,1 +1,1 @@
-export const MY_PACKAGE_NAME = "<PACKAGE_NAME>";
+export const LOGGER_TEST_PACKAGE_NAME = "@deep-foundation/logger-test";
