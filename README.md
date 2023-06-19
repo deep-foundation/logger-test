@@ -4,8 +4,11 @@
 
 Provides handler for testing [@deep-foundation/logger](https://www.npmjs.com/package/@deep-foundation/logger) package and link `Test` that is handled by the handler
 
+[Documentation](https://deep-foundation.github.io/logger-test/index.html)
+
 # Prerequisitions
 Install this package and provide permissions to it
 
 # Usage
-Insert a link of type test and it will be handled by the async dockerSupportsJs handler
+Insert a link of type test and it will be handled by the async dockerSupportsJs handler  
+[Yon can do it by using library of this package](https://deep-foundation.github.io/logger-test/functions/insertTest.html#md:insert-a-test-link)
