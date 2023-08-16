@@ -2,7 +2,7 @@
 [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/deep-foundation/logger-test) 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation)
 
-Provides handler for testing [@deep-foundation/logger](https://www.npmjs.com/package/@deep-foundation/logger) package and link `Test` that is handled by the handler
+A deep package to test [@deep-foundation/logger](https://www.npmjs.com/package/@deep-foundation/logger) package
 
 [Documentation](https://deep-foundation.github.io/logger-test/index.html)
 

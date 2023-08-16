@@ -3,7 +3,7 @@
   "keywords": [
     "deep-package"
   ],
-  "description": "Provides handler for testing @deep-foundation/logger package and link `Test` that is handled by the handler",
+  "description": "A deep package to test @deep-foundation/logger package",
   "repository": {
     "type": "git",
     "url": "https://github.com/deep-foundation/logger-test"
